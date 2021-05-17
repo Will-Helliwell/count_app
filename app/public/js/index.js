@@ -3,5 +3,5 @@ window.addEventListener("load", (event) => {
   let countDiv = document.getElementById("count");
 
   let counter = new Counter(countDiv, incrementButton, Client())
-  counter.render()
+  counter.setCount(0)
 })
