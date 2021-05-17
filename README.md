@@ -1,4 +1,15 @@
-## Counter
+## Count app
+
+A simple count app, forked from a Makers Academy repo. I am adding functionality to improve my understadning of JavaScript.
+
+Stack:
+- Backend = Ruby
+- Server = Sinatra
+- Frontend = Vanilla JS, HTML, CSS
+
+---
+
+## Original Makers Readme
 
 A demonstration of a JavaScript frontend that sends requests to a basic Sinatra API, using a simplified component approach.
 
